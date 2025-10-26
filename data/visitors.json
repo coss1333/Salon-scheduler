@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ирина",
+    "start_date": "2025-01-10",
+    "months": 6,
+    "min_sessions": 10
+  },
+  {
+    "name": "Алина",
+    "start_date": "2025-02-05",
+    "months": 6,
+    "min_sessions": 10
+  },
+  {
+    "name": "Мария",
+    "start_date": "2025-03-01",
+    "months": 6,
+    "min_sessions": 10
+  }
+]
